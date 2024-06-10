@@ -1,2 +1,2 @@
 #!/bin/bash
-rm /tmp/imafile cp /bin/bash /tmp/imafile
+file /tmp/imafile
