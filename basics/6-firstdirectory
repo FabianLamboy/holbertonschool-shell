@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir My_First_Directory
+rm -rf
