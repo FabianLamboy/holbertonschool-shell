@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(printf "%s\n" "${words[@]}" | sort | uniq -u)
+echo list_1 | sort --lower-case | uniq -u
