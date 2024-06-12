@@ -1,2 +1,2 @@
 #!/bin/bash
-echo list_1 | sort --lower-case | uniq -u
+echo list_1 | sort --ignore-case | uniq -u
