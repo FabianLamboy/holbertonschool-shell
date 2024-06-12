@@ -1,2 +1,2 @@
 #!/bin/bash
-touch '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
+./7-file && ls -1t | head -1
