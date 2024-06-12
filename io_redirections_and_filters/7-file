@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo echo Best_School >> \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+echo -ne "Best School" >> \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
