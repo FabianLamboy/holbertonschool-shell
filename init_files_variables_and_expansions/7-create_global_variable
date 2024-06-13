@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $my_env_var BEST="School"
+export $my__var BEST="School"
